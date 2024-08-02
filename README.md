@@ -5,6 +5,7 @@
 
 # features
 -Login/sign Up
+
     -sign In / sign Up form
     -redirect to browse page
 -Browser(after authentication)
@@ -17,4 +18,3 @@
 -NetflixGPT
     -search Bar
     -Movie Suggestion
-    
